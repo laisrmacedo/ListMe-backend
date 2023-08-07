@@ -1,7 +1,7 @@
 {
-  "name": "rev-arq",
+  "name": "listme-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple to-do list app project. The goal is to allow users to add tasks, mark as completed and delete tasks from the list. ",
   "main": "index.js",
   "scripts": {
     "start": "node ./build/index.js",
